@@ -25,8 +25,9 @@ Dieses Repository hat Ordner für die einzelnen Kapitel.
 ## Installation
 
 1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
+   
    - Python
-   - 
+     
 außerdem müssen Sie
 
 - in .env den OpenAI-API-Key angeben
