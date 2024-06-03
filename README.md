@@ -26,7 +26,8 @@ Dieses Repository hat Ordner für die einzelnen Kapitel.
 
 1. Um diese Übungsdateien nutzen zu können, müssen Sie folgendes installiert haben:
    - Python
-außerdem:
+   - 
+außerdem müssen Sie
 
 - in .env den OpenAI-API-Key angeben
 - in .env für das Beispiel mit openweathermap.org auch WEATHER_API_KEY schreiben
