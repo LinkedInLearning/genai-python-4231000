@@ -8,11 +8,6 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs `[COURSENAME]`. Den 
 
 [Practice It: X | All Other [Project Mojo] Courses]
 
-Dieser Kurs ist in GitHub Codespaces integriert, eine sofort verfügbare Cloud-Entwicklungsumgebung, die alle Funktionen Ihrer bevorzugten IDE bietet, ohne dass Sie einen lokalen Rechner einrichten müssen. Mit Codespaces können Sie von jedem Rechner aus und zu jeder Zeit praktische Übungen durchführen - und dabei ein Tool verwenden, das Ihnen häufig in der Praxis begegnen wird. Sehen Sie sich das Video "Wie verwende ich GitHub Codespaces mit diesem Kurs?" an, um zu erfahren, wie Sie anfangen können.  
-
-
-
-
 
 [COURSEDESCRIPTION]
 
