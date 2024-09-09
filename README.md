@@ -25,7 +25,7 @@ außerdem müssen Sie
 - in .env für das Beispiel mit openweathermap.org auch WEATHER_API_KEY schreiben
 - in .streamlit/secrets.toml den OpenAI-API-Key bei den Streamlit-Beispiele
 
-Außerdem müssen die Bibliotheken installiert werden.
+Zudem müssen die Bibliotheken installiert werden.
 
 Es empfiehlt sich, vorher eine virtuelle Umgebung anzulegen.
 
@@ -44,8 +44,9 @@ python3 -m venv env
 ## Virtuelle Umgebung aktivieren
 
 (Windows)
+```
 env\Scripts\activate
-
+```
 (MacOS)
 
 ```
@@ -66,7 +67,7 @@ pip3 install -r requirements.txt
 ```
 
 2. Klonen Sie das Repository in Ihre lokale Maschine unter Verwendung von terminal (Mac), CMD (Windows) oder ein anderes Werkzeug mit grafischer Bedienoberfläche wie SourceTree.
-3. [Course-specific instructions]
+
 
 ## Autorin
 **Florence Maurice**
